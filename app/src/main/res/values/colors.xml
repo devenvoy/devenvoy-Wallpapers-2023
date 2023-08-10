@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--    Ocean Breeze:-->
+
+    <color name="Teal">#00A8CC</color>
+    <color name="PaleGreen">#B2DBBF</color>
+
+    <!--    Sunset Serenade:-->
+
+    <color name="Coral">#FF6B6B</color>
+    <color name="Yellow">#FFE66D</color>
+
+    <!--    Lavender Dream:-->
+
+    <color name="DeepPurple">#9B59B6</color>
+    <color name="Crimson">#E74C3C</color>
+
+    <!--    Spring Meadow:-->
+
+    <color name="LimeGreen">#8BC34A</color>
+    <color name="Turquoise">#00BCD4</color>
+
+    <!--    Candy Crush:-->
+
+    <color name="Pink">#F06292</color>
+    <color name="Lilac">#9575CD</color>
+
+    <!--    Desert Dunes:-->
+
+    <color name="Mustard">#F9A825</color>
+    <color name="Rust">#E65100</color>
+
+    <!--    Electric Shock:-->
+
+    <color name="BrightYellow">#FFD600</color>
+    <color name="ElectricPurple">#651FFF</color>
+
+    <!--    Tropical Paradise:-->
+
+    <color name="Orange">#FF9800</color>
+    <color name="Green">#4CAF50</color>
+
+    <!--    Cosmic Galaxy:-->
+
+    <color name="RoyalBlue">#536DFE</color>
+    <color name="Fuchsia">#FF4081</color>
+
+    <!--    Grayscale Elegance:-->
+
+    <color name="Gray">#757575</color>
+    <color name="White">#FFFFFF</color>
+
+    <!--    Enchanted Forest:-->
+
+    <color name="ForestGreen">#388E3C</color>
+    <color name="LimeGreenNeon">#64DD17</color>
+
+    <!--    Golden Hour:-->
+
+    <color name="Amber">#FFC107</color>
+    <color name="DeepOrange">#FF5722</color>
+
+    <!--    Midnight Magic:-->
+
+    <color name="DarkBlueGrey">#34495E</color>
+    <color name="DarkViolet">#8E44AD</color>
+
+    <!--    Citrus Burst:-->
+
+    <color name="Gold">#FFD700</color>
+    <!--    <color name="Orange">#FFA500</color>-->
+
+    <!--    Vintage Charm:-->
+
+    <color name="LightPink">#FFC0CB</color>
+    <color name="LightCoral">#F08080</color>
+
+    <!--    Serene Sky:-->
+
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="DarkTurquoise">#00CED1</color>
+
+    <!--    Pastel Delight:-->
+
+    <color name="BrightOrange">#F39C12</color>
+    <color name="MintGreen">#1ABC9C</color>
+
+    <!--    Autumn Leaves:-->
+
+    <color name="PumpkinOrange">#D35400</color>
+    <color name="Vermilion">#FF5733</color>
+
+    <!--    Galactic Glow:-->
+
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkOrchid">#9932CC</color>
+
+    Blushing Rose:
+
+    <color name="RosePink">#E91E63</color>
+    <color name="notification">?android:statusBarColor</color>
+
+    <!--    <color name="Crimson">#C2185B</color>-->
+
+</resources>
